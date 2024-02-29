@@ -3,19 +3,31 @@
 
 💻 Explorando Actualmente:
 Activo en proyectos que involucran Java, Pyton, JS y Node.JS.
+
 Experiencia práctica en desarrollo full-stack.
+
 🌱 En Busca de:
+
 Oportunidades para expandir mis habilidades en back-end.
+
 Colaborar en proyectos que desafíen y inspiren el crecimiento profesional.
+
 🚀 Puntos Destacados:
+
 Resolución creativa de problemas y diseño de soluciones eficientes.
 Comprometido con la mejora continua y la adopción de nuevas tecnologías.
+
 📚 Habilidades:
+
 Soy constante, abierto al trabajo en equipo y responsable.
 Apasionado por aprender y adaptarme a nuevas herramientas y tecnologías.
+
 🎓 Educación:
+
 Cursando mi ultimo año en la Carrera de Programador en UTN.
+
 📫 Contacto:
+
 andresluna201@hotmail.com 
 
 ¡Estoy emocionado por el desarrollo tecnológico y ansío contribuir a proyectos emocionantes! 
