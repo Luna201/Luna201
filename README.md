@@ -1,4 +1,24 @@
-### Hola, soy Andrés 👋
+### Desarrollador Apasionado 🚀
+¡Hola a todos! 👋 Soy Andrés Luna, un entusiasta del mundo del desarrollo de software con una sólida base y una fuerte pasión por la creación de soluciones innovadoras.
+
+💻 Explorando Actualmente:
+Activo en proyectos que involucran Java, Pyton, JS y Node.JS.
+Experiencia práctica en desarrollo full-stack.
+🌱 En Busca de:
+Oportunidades para expandir mis habilidades en back-end.
+Colaborar en proyectos que desafíen y inspiren el crecimiento profesional.
+🚀 Puntos Destacados:
+Resolución creativa de problemas y diseño de soluciones eficientes.
+Comprometido con la mejora continua y la adopción de nuevas tecnologías.
+📚 Habilidades:
+Soy constante, abierto al trabajo en equipo y responsable.
+Apasionado por aprender y adaptarme a nuevas herramientas y tecnologías.
+🎓 Educación:
+Cursando mi ultimo año en la Carrera de Programador en UTN.
+📫 Contacto:
+andresluna201@hotmail.com 
+
+¡Estoy emocionado por el desarrollo tecnológico y ansío contribuir a proyectos emocionantes! 
 
 <h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://codersfree.nyc3.cdn.digitaloceanspaces.com/posts/introduccion-a-la-programacion-con-pseint-conceptos-basicos.jpg" alt="pseint" width="40" height="40"/> </a> <a href="https://codersfree.com/posts/introduccion-a-la-programacion-con-pseint-conceptos-basicos" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> 
