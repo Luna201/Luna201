@@ -1,46 +1,137 @@
-### Desarrollador Apasionado 🚀
-¡Hola a todos! 👋 Soy Andrés Luna, un entusiasta del mundo del desarrollo de software con una sólida base y una fuerte pasión por la creación de soluciones innovadoras.
+<h1 align="center">Andres Alfredo Luna</h1>
+<h3 align="center">Full Stack Developer · SaaS Builder · Software Architecture</h3>
 
-💻 Explorando Actualmente:
-Activo en proyectos que involucran Java, Pyton, JS y Node.JS.
+<p align="center">
+  Construyendo software con foco en arquitectura, escalabilidad y mantenibilidad.
+</p>
 
-Experiencia práctica en desarrollo full-stack.
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-SaaS%20Architecture-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Multi--Tenant-Systems-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Clean%20Design-1e293b?style=for-the-badge" />
+</p>
 
-🌱 En Busca de:
+---
 
-Oportunidades para expandir mis habilidades en back-end.
+## 🧠 Sobre mí
 
-Colaborar en proyectos que desafíen y inspiren el crecimiento profesional.
+Desarrollo software orientado a negocio, con una visión clara:  
+**no construir cosas que solo funcionen, sino sistemas que puedan crecer sin romperse.**
 
-🚀 Puntos Destacados:
+Trabajo principalmente con:
 
-Resolución creativa de problemas y diseño de soluciones eficientes.
-Comprometido con la mejora continua y la adopción de nuevas tecnologías.
+- Angular + TypeScript
+- React Native (Expo)
+- Supabase (PostgreSQL, RLS, RPC)
+- .NET y Python
+- Arquitectura SaaS multi-tenant
 
-📚 Habilidades:
+---
 
-Soy constante, abierto al trabajo en equipo y responsable.
-Apasionado por aprender y adaptarme a nuevas herramientas y tecnologías.
+## 🚀 Qué hago
 
-🎓 Educación:
+✔ Aplicaciones web escalables  
+✔ Backend con reglas de negocio robustas  
+✔ Modelado relacional profesional  
+✔ Sistemas multi-tenant con aislamiento seguro  
+✔ APIs claras y mantenibles  
+✔ Automatización e integración de servicios  
+✔ Deploys en entornos productivos (Docker, VPS, Vercel)
 
-Cursando mi ultimo año en la Carrera de Programador en UTN.
+---
 
-📫 Contacto:
+## 🏗 Enfoque técnico
 
-andresluna201@hotmail.com 
+Me especializo en:
 
-¡Estoy emocionado por el desarrollo tecnológico y ansío contribuir a proyectos emocionantes! 
+- Arquitectura de software
+- Diseño de bases de datos relacionales
+- Seguridad (roles, permisos, RLS)
+- Performance en frontend
+- APIs limpias y bien documentadas
+- SEO técnico aplicado a productos reales
+- Escalabilidad desde el diseño
 
-<h3 align="left">Lenguajes y herramientas:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://codersfree.nyc3.cdn.digitaloceanspaces.com/posts/introduccion-a-la-programacion-con-pseint-conceptos-basicos.jpg" alt="pseint" width="40" height="40"/> </a> <a href="https://codersfree.com/posts/introduccion-a-la-programacion-con-pseint-conceptos-basicos" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> 
-<h3 align="left">Editores:</h3>
-<img src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg" alt="visualstudio" width="40" height="40"/> </a> <a href="https://logowik.com/visual-studio-code-vector-logo-1-5273.html" target="_blank" rel="noreferrer"> <img src="https://notepad-plus-plus.org/images/logo.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://notepad-plus-plus.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Sublime_Text_3_logo.png/225px-Sublime_Text_3_logo.png" alt="Sublime" width="40" height="40"/> </a> <a href="https://en.wikipedia.org/wiki/Sublime_Text" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-<h3 align="left">IDE:</h3> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/666px-Apache_NetBeans_Logo.svg.png" alt="apache" width="40" height="40"/> </a> <a href="https://es.m.wikipedia.org/wiki/Archivo:Apache_NetBeans_Logo.svg" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/jetbrains-pycharm5998.jpg" alt="Pycharm" width="40" height="40"/> </a> <a href="https://logowik.com/jetbrains-pycharm-logo-vector-svg-pdf-ai-eps-cdr-free-download-11835.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-<h3 align="left">Control de versiones:</h3> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="github" width="40" height="40"/> </a> <a href="https://github.com/logos/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+---
 
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luna201&theme=blue-green)](https://github.com/Luna201/Luna201/blob/main/README.md)
+## 🛠 Stack principal
 
-![gif](https://miro.medium.com/v2/resize:fit:1358/1*KRxVkzBIkf8WB9aW-fO3pg.gif)
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white"/>
+</p>
+
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
+
+### Infra & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+</p>
+
+---
+
+## 📌 Experiencia reciente
+
+- Plataformas SaaS multi-tenant
+- Sistemas administrativos con roles y permisos
+- Integraciones API externas
+- Apps móviles de soporte operativo
+- Optimización de modelos de datos
+- Refactorización orientada a escalabilidad
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luna201&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luna201&theme=tokyonight" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Luna201&theme=tokyonight" height="150" />
+</p>
+
+---
+
+## 🧩 Tipo de proyectos donde aporto más valor
+
+- SaaS B2B
+- Sistemas internos empresariales
+- Automatización de procesos
+- Plataformas con visión de crecimiento
+- Arquitectura para productos digitales
+
+---
+
+## ⚙ Cómo trabajo
+
+- Claridad antes que complejidad  
+- Diseño antes que parche  
+- Escalabilidad desde el inicio  
+- Disciplina técnica constante  
+
+---
+
+## 📬 Contacto
+
+- LinkedIn: (https://www.linkedin.com/feed/)
+- GitHub: https://github.com/Luna201
+
+---
+
+<p align="center">
+  <i>"La disciplina vence al talento cuando el talento no se disciplina."</i>
+</p>
